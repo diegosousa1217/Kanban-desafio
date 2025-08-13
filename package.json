@@ -1,0 +1,17 @@
+{
+  "name": "kanban-cypress-tests",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "test": "cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Testes E2E para kanban-dusky-five.vercel.app",
+  "devDependencies": {
+    "cypress": "^14.5.4"
+  }
+}
